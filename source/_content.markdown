@@ -29,6 +29,7 @@ order please).
 * [hackerYou](http://hackeryou.com/)
 * [Ladies Learning Code](http://ladieslearningcode.com/) - A women-run not-for-profit group
 * [Lighthouse Labs](http://lighthouselabs.ca/)
+* [Red Academy](https://redacademy.com/)
 
 ### Developers (Individuals)
 
